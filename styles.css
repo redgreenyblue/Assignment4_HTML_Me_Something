@@ -1,0 +1,75 @@
+html {
+	background-color: honeydew;
+}
+
+header{
+	color: indigo;
+	font-family: Palatino;
+	font-size: 100px;
+	text-align: center;
+	background-color: cyan;
+}
+
+#intro {
+	font-family: Palatino;
+	font-size: 25px;	
+}
+
+#entity {
+	font-family: Palatino;
+	font-size: 15px;
+	margin-left: 600px;
+}
+
+h2 {
+	font-family: Palatino;
+	color: indigo;
+	font-size: 50px;
+}
+
+#middle {
+	font-family: Palatino;
+	background-color: lightcyan;
+	margin-left: 150px;
+	margin-right: 450px;
+	margin-bottom: 25px;
+	font-size: 25px;
+}
+
+#end {
+	font-family: Palatino;
+	font-size: 25px;
+}
+
+footer {
+	font-family: Palatino;
+	font-size: 15px;
+}
+
+.all_cats {
+	width: 500px;
+	height: 500px;
+	margin-left: 600px;
+	margin-right: 600px;
+}
+.murph {
+	width: 300px;
+	height: 300px;
+	object-fit: cover;
+}
+.gus {
+	width: 300px;
+	height: 300px;
+	object-fit: cover;
+}
+.rollie {
+	width: 300px;
+	height: 300px;
+	object-fit: cover;
+}
+.gus_trash {
+	width: 500px;
+	height: 500px;
+	margin-left: 600px;
+	margin-right: 600px;
+}
